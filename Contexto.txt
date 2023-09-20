@@ -1,0 +1,1 @@
+En el presente laboratorio se tratan los temas de 'Scripting y Procesos' y 'Scripting y Servicios'.
